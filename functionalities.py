@@ -1,13 +1,13 @@
 import file_manager as fM
 
 def say_hi():
-    pass
+    hi baby
 
 def new_client():
-    pass
+    Welcome to our shop!
     
 def new_transaction():
-    pass
+    Thanks for the money,baby.
     
 def look_credit():
-    pass
+    You are poor af. 
